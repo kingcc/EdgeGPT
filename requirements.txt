@@ -5,3 +5,5 @@ prompt_toolkit
 requests
 rich
 websockets
+flask[async]
+markdown2[break-on-newline,fenced-code-blocks,footnotes,target-blank-links,tag-friendly,task_list]
